@@ -1,0 +1,11 @@
+.rooms-links{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 1rem;
+}
+
+
+.rooms-links div {
+    background-color: #6b6b6b;
+    padding: 2rem;
+}
